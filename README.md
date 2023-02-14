@@ -17,3 +17,11 @@ Projeto simples que mostra um display (com 4 thumbnails de filmes), sendo possí
   <img src="https://cdn.discordapp.com/attachments/850914965824077844/1075154438559367268/image.png" height= "300" width= "400">
 </h1>
  Os botões da barra de navegação, assim como o botão principal do corpo da página alteram de cor quando o cursor está sobre eles
+
+<h2 align= center> <a href=https://github.com/GabIkejima/estudos-html/tree/main/projeto-estudo">Estudos📖</a></h2>
+Meus arquivos de estudo sobre HTML e CSS, apesar das páginas estarem interligadas e possuírem elementos visuais, elas foram criadas apenas para que eu pudesse agregar meu conhecimento e anotações de forma prática em um "mini-projeto"
+
+<h1 align= center>
+ <img src="https://cdn.discordapp.com/attachments/850914965824077844/1075159074980777994/image.png" height= "300" width= "400">
+ <img src="https://cdn.discordapp.com/attachments/850914965824077844/1075159490590154762/image.png" height= "300" width= "400">
+ </h1>
