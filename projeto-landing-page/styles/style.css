@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+body{
+    max-width: 1200px;
+    background-color: rgb(35, 35, 35);
+    color: white;
+    font-family: poppinsregular;
+    margin: 0 auto;
+    padding: 15px;
+}
+/* Elementos do header*/
+header{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#cabecalho-titulo{
+    flex-direction: column;
+    line-height: 10px;
+}
+
+/*Index da barra de navegação */
+li{
+    display:inline-block;
+    margin: 20px;
+}
+
+#cabecalho-item{
+    color: white;
+}
+
+#cabecalho-item:hover{
+    color: rgba(110, 105, 250, 98);
+    transition: 0.3s all;
+}
+
+/* Elementos da Main */
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+#conteudo-principal-titulo-blue{
+    color: rgba(110, 105, 250, 98);;
+}
+
+#conteudo-principal-titulo{
+    font-size: 55px;
+    line-height: 10px;
+    font-family: poppinsmedium;
+}
+
+#conteudo-principal-texto{
+    line-height: 20px;
+    max-width: 500px;
+    font-family: poppinslight;
+}
+
+#imagem-conteudo-principal{
+    width: 580px;
+}
+
+#conteudo-principal-botao{
+    background-color: rgba(110, 105, 250, 98);
+    width: 160px;
+    height: 60px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    font-family: poppinsregular;
+    font-weight: 400;
+    font-size: 20px;
+    color: #2F2325;
+}
+
+#conteudo-principal-botao:hover {
+    background-color: rgba(141, 172, 250, 98);
+  }
